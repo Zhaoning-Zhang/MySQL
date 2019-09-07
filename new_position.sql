@@ -1,3 +1,8 @@
+#Author: Zhaoning Zhang
+
+#This project helps construct table to store company's portfolio information and 
+#write queries to select the position difference between forward and later day.
+
 CREATE DATABASE new_position_pick;
 
 USE new_position_pick;
