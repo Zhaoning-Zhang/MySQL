@@ -1,3 +1,9 @@
+#Author: Zhaoning Zhang
+
+#This project is done for selecting out the bonds 
+#which are downgraded by no matter which three credit rating agencies daily( Fitch, S&P, Moody)
+
+
 CREATE DATABASE DOWNGRADE_ALERT;
 
 USE DOWNGRADE_ALERT;
