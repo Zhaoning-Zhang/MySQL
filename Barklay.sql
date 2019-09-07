@@ -1,3 +1,8 @@
+#Author: Zhaoning Zhang
+
+#This Project is developed for company's want to do Barclay credit rating for their Portfolio 
+#in which each bond has three credit rating: Fitch, S&P, Moody.
+
 #CREATE DATABASE downgrade;
 
 USE downgrade;
